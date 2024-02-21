@@ -1,0 +1,102 @@
+[
+  {
+    "itemType": "Weapon",
+    "name": "Staff",
+    "description": "Very effective in the right hands... But in yours, not great.",
+    "value": 1,
+    "damage": 1
+  },
+  {
+    "itemType": "Weapon",
+    "name": "Dagger",
+    "description": "A great, small weapon.",
+    "value": 3,
+    "damage": 2
+  },
+  {
+    "itemType": "Weapon",
+    "name": "Sword",
+    "description": "A very versatile bastard sword.",
+    "value": 6,
+    "damage": 4
+  },
+
+
+  {
+    "itemType": "Armour",
+    "name": "Leather Armour",
+    "description": "Not much, but it's better than nothing.",
+    "value": 3,
+    "armour": 1
+  },
+  {
+    "itemType": "Armour",
+    "name": "Chain Armour",
+    "description": "Light weight, but not as durable as full metal.",
+    "value": 4,
+    "armour": 2
+  },
+  {
+    "itemType": "Armour",
+    "name": "Metal Armour",
+    "description": "The best available to you.",
+    "value": 6,
+    "armour": 4
+  },
+
+
+  {
+    "itemType": "Amulet",
+    "name": "Amulet of Strength",
+    "description": "An amulet that strengthens you.",
+    "value": 4,
+    "type": "STRENGTH",
+    "strength": 2
+  },
+  {
+    "itemType": "Amulet",
+    "name": "Amulet of Defence",
+    "description": "An amulet that defends you.",
+    "value": 4,
+    "type": "DEFENCE",
+    "strength": 2
+  },
+  {
+    "itemType": "Amulet",
+    "name": "Amulet of Luck",
+    "description": "You feel luckier just looking at it.",
+    "value": 4,
+    "type": "LUCK",
+    "strength": 2
+  },
+
+
+  {
+    "itemType": "Potion",
+    "name": "Healing Potion",
+    "description": "A potion that heals you.",
+    "value": 2,
+    "type": "HEALING"
+  },
+  {
+    "itemType": "Potion",
+    "name": "Potion of Strength",
+    "description": "A potion that strengthens you.",
+    "value": 2,
+    "type": "STRENGTH"
+  },
+  {
+    "itemType": "Potion",
+    "name": "Potion of Defence",
+    "description": "A potion that increases your defence.",
+    "value": 2,
+    "type": "DEFENCE"
+  },
+  {
+    "itemType": "Potion",
+    "name": "Potion of Luck",
+    "description": "A potion that increases your luck.",
+    "value": 2,
+    "type": "LUCK"
+  }
+]

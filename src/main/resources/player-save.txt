@@ -1,0 +1,26 @@
+{
+  "health": 5,
+  "strength": 1,
+  "defence": 1,
+  "luck": 1,
+  "currentWeapon": {
+    "itemType": "Weapon",
+    "name": "Wooden Sword",
+    "description": "It\u0027s not a toy!",
+    "value": 1,
+    "damage": 1
+  },
+  "currentArmour": {
+    "itemType": "Armour",
+    "name": "Rags",
+    "description": "A set of rags, they barely protect you from the cold",
+    "value": 1,
+    "armour": 1
+  },
+  "coin": 5,
+  "inventory": [],
+  "location": {
+    "x": 0,
+    "y": 0
+  }
+}
